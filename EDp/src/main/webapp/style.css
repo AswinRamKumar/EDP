@@ -1,0 +1,28 @@
+/* Custom CSS for the navigation bar */
+.navbar {
+    background-color: #343a40; /* Dark background color */
+}
+
+.navbar-brand {
+    color: #ffffff !important; /* Navbar brand color */
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #ffffff !important; /* Navbar link color */
+}
+
+/* Adjust text color in Alumni section */
+#alumni .card-title, #alumni .card-text {
+    color: #000 !important; /* Black text color */
+}
+
+/* Decrease margin for the body */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Reduce padding for divs */
+.container {
+    padding: 30px; /* You can adjust this value as needed */
+}
